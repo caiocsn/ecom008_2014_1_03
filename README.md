@@ -1,4 +1,6 @@
 ecom008_2014_1_03
 =================
 
-Terceiro exercício da disciplina de estrutura de dados.
+CAIO CÉSAR DOS SANTOS NUNES
+MATRÍCULA: 12212251
+ESTRUTURAS DE DADOS - ENGENHARIA DA COMPUTAÇÃO
